@@ -1,0 +1,5 @@
+---
+jira:
+  hostname: 'http://example.atlassian.net'
+  username: 'me'
+  password: 'secret'
